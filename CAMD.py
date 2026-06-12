@@ -1,6 +1,6 @@
 # AoFCE Coursework
 # 18/12/2025
-# Husaini Zaidan [06020282], #Zaid Janjua [02086052]
+# Husaini Zaidan [--------], #Zaid Janjua [--------]
 
 #%% CELL 1 - Import libraries and data
 from pyomo.environ import *
